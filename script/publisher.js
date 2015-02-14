@@ -1,0 +1,1 @@
+stLight.options({publisher: "212b589b-5441-49d4-a07d-7e9a41fc172f", doNotHash: false, doNotCopy: false, hashAddressBar: false});
